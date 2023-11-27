@@ -1,4 +1,4 @@
-CREATE TABLE EmployeeOLD
+CREATE TABLE Employee
 (
 Em_id CHAR(5) , 
 Em_name NVARCHAR(10) NOT NULL,
